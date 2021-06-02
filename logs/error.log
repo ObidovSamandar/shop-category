@@ -1,0 +1,1267 @@
+{
+  message: 'storage.sample.create: finished with error: document must have an _id before saving',
+  level: 'error',
+  timestamp: '2021-05-30T07:28:27.565Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: document must have an _id before saving',
+  level: 'error',
+  timestamp: '2021-05-30T07:28:59.054Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: document must have an _id before saving',
+  level: 'error',
+  timestamp: '2021-05-30T07:30:03.656Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: document must have an _id before saving',
+  level: 'error',
+  timestamp: '2021-05-30T07:30:16.522Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-30T07:54:56.396Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-30T09:36:57.361Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-30T09:37:32.619Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:38:03.758Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:39:19.584Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:40:57.538Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:41:43.842Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:42:07.964Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:42:56.790Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: data and salt arguments required',
+  level: 'error',
+  timestamp: '2021-05-30T09:43:49.243Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-30T09:52:46.409Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-30T09:53:48.700Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-30T10:31:51.380Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.products index: title_1 dup key: { : "lorem ipsum dolor" }',
+  level: 'error',
+  timestamp: '2021-05-31T05:33:01.357Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T06:52:05.633Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:02:02.876Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:02:02.966Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:04:32.578Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:04:32.591Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "dilmurod@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:04:32.874Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:04:32.885Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:05:20.126Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:05:20.140Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:05:20.208Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:05:20.220Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:07:26.217Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:07:26.238Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:07:26.312Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:07:26.316Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:13:44.510Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:13:44.521Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:13:44.589Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:13:44.593Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:13:44.652Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:13:44.655Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:14:28.107Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:14:28.119Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:14:28.187Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:14:28.192Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:14:28.251Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:14:28.255Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:17:45.271Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:17:45.284Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:17:45.353Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:17:45.357Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:17:45.417Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:17:45.421Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.491Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.505Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.593Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.615Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.703Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.710Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.801Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:25:50.809Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.263Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.290Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.277Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.303Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.394Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.402Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.404Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.413Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.489Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:30:52.493Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.569Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.569Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.587Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.662Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.666Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.726Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.729Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.587Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.601Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.605Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.610Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:33:44.614Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:12.996Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.012Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.027Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.033Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.041Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.046Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.348Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.363Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.436Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.442Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.505Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:13.510Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.products index: title_1 dup key: { : "lorem" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:15.763Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:43:15.778Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.329Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.350Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.369Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.380Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.386Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.506Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.524Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.products index: title_1 dup key: { : "lorem" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.576Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.589Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.596Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.601Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.604Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.608Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.614Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.621Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.667Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:48:12.672Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.products index: title_1 dup key: { : "lorem" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.007Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.023Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.043Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.050Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.059Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.067Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.149Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.172Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.191Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.198Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.209Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.215Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.243Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.266Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.346Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.353Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.427Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:23.432Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:25.515Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:25.528Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:25.532Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:25.538Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:55:25.541Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.801Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.821Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.858Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.867Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.873Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.898Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.products index: title_1 dup key: { : "lorem" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.908Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.916Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.923Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.925Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.930Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.934Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.939Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.945Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.955Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:26.959Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:27.023Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:27.036Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:27.108Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:27.113Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:27.174Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:58:27.178Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.properties index: name_1 dup key: { : "size" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:30.936Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:30.951Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:30.967Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:30.972Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:30.979Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:30.984Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.products index: title_1 dup key: { : "lorem" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.034Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.056Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.075Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.082Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.091Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.097Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.users index: email_1 dup key: { : "ochil@gmail.com" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.099Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.114Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.195Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.200Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.268Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:31.273Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.create: finished with error: E11000 duplicate key error collection: myshop.categories index: title_1 dup key: { : "Barra maxsulotlar" }',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:33.374Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:33.396Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.update: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:33.409Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:33.413Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.delete: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:33.421Z',
+  label: 'make-category-products',
+  metadata: {}
+}
+{
+  message: 'storage.sample.findOne: finished with error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-05-31T07:59:33.425Z',
+  label: 'make-category-products',
+  metadata: {}
+}

@@ -1,0 +1,2937 @@
+{
+  message: 'POST: \x1B[31m500\x1B[39m 33ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:28:27.642Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '83',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'c95efd6f-4886-9179-b5f4-72077d724c18',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 33
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 14ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:28:59.061Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '83',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '8a8b7894-3172-2efe-6f54-e459c223da24',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 14
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 14ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:30:03.664Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '83',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '86327e97-e444-3b97-bca9-7a16318cdc87',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 14
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 40ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:30:16.542Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '83',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '408476b7-7a0c-db57-ae85-61009563c3d7',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 40
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 1670ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:30:48.237Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '83',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'bc4ad4a5-af97-eed1-550e-36a73705e3c0',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 1670
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 18ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:31:52.323Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '74',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '0d9ef134-0ce1-81b2-26c5-08f4081f8f60',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 18
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 50ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:32:58.504Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '74',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'e5ef546c-f674-3083-4ebd-4b873f256a66',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 50
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 196ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:42:28.753Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '74',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'f313430e-6dc1-5fd4-b572-8f97a3aa1d38',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 196
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 63ms /shop/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:42:45.210Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '83',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '0d1880c5-e46d-d9f9-758b-ba8b3afa6c81',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 63
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 1ms /shop/register/user',
+  level: 'info',
+  timestamp: '2021-05-30T07:50:46.516Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/register/user',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '77',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '789918fc-b1ea-5e65-54be-8306c21606d8',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/register/user',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 1
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 77ms /shop/user/register',
+  level: 'info',
+  timestamp: '2021-05-30T07:51:11.200Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/register',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '77',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '2b314745-5023-6ba0-b162-f2c8c5780b56',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/register',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 77
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m200\x1B[39m 82ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T07:54:50.934Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '60',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '8aa5c45c-e0e4-981b-4d1f-29afbf416ae8',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 82
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 10ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T07:54:56.403Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '59',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '798cf7ec-fb55-d115-e268-363455018e5a',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 10
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m400\x1B[39m 66ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T07:55:08.181Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '63',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'ba0aa0b4-dbf7-b86f-a682-d44e91f20605',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 66
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m400\x1B[39m 219ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T09:01:05.635Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '63',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '8d9c047d-15ae-d9c6-09d9-d30fde59b27f',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 219
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m400\x1B[39m 64ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T09:01:15.847Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '60',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '4fed0329-07dc-0253-1327-0434d13bd978',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 400 },
+      responseTime: 64
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m200\x1B[39m 65ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T09:01:24.954Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '57',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '96041147-7025-d516-bed8-a716e2222a2a',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 65
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 12ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:35:51.895Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'f74a607e-fbef-142f-00d0-d2e3328e2aa7',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 12
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 143ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:36:57.384Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '14a39f59-5bb6-0c2c-4051-a4863f61751b',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 143
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 34ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:37:32.634Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '2f54c8d1-d442-bc95-efcf-a42ae394a972',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 34
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 33ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:38:03.777Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'a0962b45-ddaa-96f8-0633-a6fe9dd8a99e',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 33
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 31ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:39:19.603Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '498d9db8-6c45-097f-0880-223ccda90306',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 31
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 5ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:40:57.541Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '5afd0b16-c510-5f59-535f-44dc9d226e06',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 28ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:41:43.858Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'c0af8eea-b5b0-7aa6-cab1-d0d0d6adc12b',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 28
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 35ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:42:07.983Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '2fd1e8cf-dca1-885e-ca51-01681a17e3bd',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 35
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 5ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:42:45.609Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g1',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '0897dbde-0fde-7fa9-1f59-385c286268a2',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 1ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:42:51.733Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA61',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '9b54e0b8-6b12-3601-e0e2-2825f5931e4f',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 1
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 4ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:42:56.792Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '0f7aee12-6dba-994e-a357-dbabbdc99785',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 34ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:43:49.260Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '6b86de40-4d72-0a0d-d4b4-52bd632d459b',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 34
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 518ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:46:24.973Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '99e6ac6d-fc27-4ac3-4caf-8fa76a18df6d',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 518
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m200\x1B[39m 79ms /shop/user/login',
+  level: 'info',
+  timestamp: '2021-05-30T09:47:27.755Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/user/login',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '60',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'cbde2802-53df-f6b8-ab98-e58d066cd8f0',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/user/login',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 79
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m401\x1B[39m 8ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:47:47.952Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZlMmU3OTAzLTZlMDItNDZjMy05MWFjLTMwNGFkNTEwODAyNyIsImlhdCI6MTYyMjM2ODA0N30.3ZCp1fXGOTKOUHz0gWIocDXR083M6x5jr_xMrgXkKfk',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '05aa357f-6dc3-3d73-e2ff-1d5757800295',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 401 },
+      responseTime: 8
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 13ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:48:20.132Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '35',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '0b3cda56-15c5-4cf3-1c12-c4ea10a2cd62',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 13
+    }
+  }
+}
+{
+  message: 'POST: \x1B[33m404\x1B[39m 16ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:49:25.565Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '35',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '95945494-dc79-41df-944b-c7c84da3aa7c',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 16
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 8ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:49:30.353Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'c93b1fa6-bcfb-dc6a-fe9b-0e982a802598',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 8
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 17ms /shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+  level: 'info',
+  timestamp: '2021-05-30T09:51:45.243Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '90e158d4-57eb-1ac2-5ef7-30b91dd42b7d',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 17
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[32m204\x1B[39m 8ms /shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+  level: 'info',
+  timestamp: '2021-05-30T09:51:53.774Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '35',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '76603c52-c11b-ea58-0534-f68a07b1d96f',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+        query: {}
+      },
+      res: { statusCode: 204 },
+      responseTime: 8
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 6ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:52:01.539Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'b376cd34-8715-3666-3a18-e102cefae815',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 6
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 12ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:52:11.143Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '26',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '30f57aa6-6519-6f46-55c6-9f38af1a5417',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 12
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 5ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:52:15.077Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'fe84f8a6-6972-2c82-6afa-04a4c51479d7',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[33m404\x1B[39m 16ms /shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+  level: 'info',
+  timestamp: '2021-05-30T09:52:46.421Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '35',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '7f74e159-757b-5f18-fd57-ef09b7901051',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/delete/773e6d6f-85b4-4b94-bec3-ba765c824c77',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 16
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[32m204\x1B[39m 3ms /shop/category/delete/4cc06677-a3a2-4b70-b2a7-02e852104582',
+  level: 'info',
+  timestamp: '2021-05-30T09:52:52.683Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/delete/4cc06677-a3a2-4b70-b2a7-02e852104582',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '35',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '75ca4928-0201-b22f-3d3e-d333d09ad1ec',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/delete/4cc06677-a3a2-4b70-b2a7-02e852104582',
+        query: {}
+      },
+      res: { statusCode: 204 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 3ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:53:02.388Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '6793f87f-f53d-dbe9-3723-9ab23452207b',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 5ms /shop/category/create',
+  level: 'info',
+  timestamp: '2021-05-30T09:53:13.888Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '34',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '77661d60-f1bb-5fa8-98c1-91230d133f4a',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 3ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:53:18.345Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '8cf69174-10a3-f64f-6202-1c29cb77195c',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 4ms /shop/category/4cc06677-a3a2-4b70-b2a7-02e852104582',
+  level: 'info',
+  timestamp: '2021-05-30T09:53:48.701Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/4cc06677-a3a2-4b70-b2a7-02e852104582',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'b490875f-2bdb-d369-baac-4b05ebd389b4',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/4cc06677-a3a2-4b70-b2a7-02e852104582',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 4ms /shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+  level: 'info',
+  timestamp: '2021-05-30T09:54:03.633Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'c9676085-fab9-c257-fc3b-43f9be3fcf18',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'PUT: \x1B[32m200\x1B[39m 6ms /shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+  level: 'info',
+  timestamp: '2021-05-30T09:54:44.868Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '23',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'b5181871-985e-ffb4-701f-8cafbe9664ca',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 6
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 4ms /shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+  level: 'info',
+  timestamp: '2021-05-30T09:54:52.460Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '23563ec2-f58e-d828-8939-b3a5ed8f784b',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 3ms /shop/category/all',
+  level: 'info',
+  timestamp: '2021-05-30T09:54:57.989Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'e3605ee3-bcaf-c580-050d-af209fa3d7f4',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'PUT: \x1B[32m200\x1B[39m 4ms /shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+  level: 'info',
+  timestamp: '2021-05-30T09:55:19.722Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '34',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '224175e6-a7a3-30c8-31fd-b35f652873d2',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/shop/category/284e51a9-1f5a-4e5d-bbef-6d22dfe61718',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'PUT: \x1B[33m404\x1B[39m 17ms /shop/product/property/create',
+  level: 'info',
+  timestamp: '2021-05-30T10:25:38.283Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '65',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '9fbd21b7-94e7-f14f-257e-52ae86f77710',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/create',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 17
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 5ms /shop/product/property/create',
+  level: 'info',
+  timestamp: '2021-05-30T10:25:44.618Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '65',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '09646216-6833-43d9-b388-4e1f0db9f2e7',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 673ms /shop/product/property/create',
+  level: 'info',
+  timestamp: '2021-05-30T10:26:13.319Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '95',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '5205190c-7272-8bf7-78f1-2854ffcb4c16',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 673
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 21ms /shop/product/property/all',
+  level: 'info',
+  timestamp: '2021-05-30T10:28:12.233Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'eab657fd-31ba-0b0c-9c04-c089ceb413dd',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 21
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 23ms /shop/product/property/19a8b886-1f61-4062-8372-07b883e48194',
+  level: 'info',
+  timestamp: '2021-05-30T10:28:45.529Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/19a8b886-1f61-4062-8372-07b883e48194',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '0b4e7c4d-69ef-daba-6d71-3e3875dfd233',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/19a8b886-1f61-4062-8372-07b883e48194',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 23
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[33m404\x1B[39m 25ms /shop/product/property/delete/19a8b886-1f61-4062-8372-07b883e48194',
+  level: 'info',
+  timestamp: '2021-05-30T10:30:29.228Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/delete/19a8b886-1f61-4062-8372-07b883e48194',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '87e23040-43e4-33a7-b431-607e7491fcbd',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/delete/19a8b886-1f61-4062-8372-07b883e48194',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 25
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[32m204\x1B[39m 22ms /shop/product/property/delete/19a8b886-1f61-4062-8372-07b883e48194',
+  level: 'info',
+  timestamp: '2021-05-30T10:31:46.558Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/delete/19a8b886-1f61-4062-8372-07b883e48194',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'e11bd45f-fe42-9f0f-3b6c-b50bcf90f052',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/delete/19a8b886-1f61-4062-8372-07b883e48194',
+        query: {}
+      },
+      res: { statusCode: 204 },
+      responseTime: 22
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 11ms /shop/product/property/19a8b886-1f61-4062-8372-07b883e48194',
+  level: 'info',
+  timestamp: '2021-05-30T10:31:51.387Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/19a8b886-1f61-4062-8372-07b883e48194',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '2e7c7482-b22c-8683-06bf-756963573de4',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/19a8b886-1f61-4062-8372-07b883e48194',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 11
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 4ms /shop/product/property/all',
+  level: 'info',
+  timestamp: '2021-05-30T10:31:57.272Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'f24f7e9b-92ef-d102-e032-13405f428ece',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 13ms /shop/product/property/create',
+  level: 'info',
+  timestamp: '2021-05-30T10:32:01.533Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '95',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'a8d5faa8-719b-713e-7623-1f2f00f9f6b1',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 13
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 6ms /shop/product/property/all',
+  level: 'info',
+  timestamp: '2021-05-30T10:32:08.162Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'd402e9da-c8b1-0288-3e17-4e2d651755f6',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 6
+    }
+  }
+}
+{
+  message: 'PUT: \x1B[32m200\x1B[39m 6ms /shop/product/property/67402013-30a7-490b-98f9-5e59ac8fe480',
+  level: 'info',
+  timestamp: '2021-05-30T10:33:45.634Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/67402013-30a7-490b-98f9-5e59ac8fe480',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '38',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '9070a1ca-e546-b60e-1c7e-744e7550e597',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/67402013-30a7-490b-98f9-5e59ac8fe480',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 6
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 4ms /shop/product/property/67402013-30a7-490b-98f9-5e59ac8fe480',
+  level: 'info',
+  timestamp: '2021-05-30T10:33:56.113Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/67402013-30a7-490b-98f9-5e59ac8fe480',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '762a52fb-a2d5-7eda-85c9-092bd95be789',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/67402013-30a7-490b-98f9-5e59ac8fe480',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 4
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 25ms /shop/product/property/all',
+  level: 'info',
+  timestamp: '2021-05-31T05:22:47.693Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/product/property/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '5c7a8592-274b-bd4f-30bc-3078fffe9002',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/product/property/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 25
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 6ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:24:36.359Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'aebd78c7-f52c-46be-483b-5cb475a5a514',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 6
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 19ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:26:41.253Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'bcbea561-8500-31f5-392b-4e5c27ff1a6f',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 19
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 20ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:27:41.898Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '291df4d8-e34c-6b66-722b-d363d4665268',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 20
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 21ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:28:16.175Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '723651ad-28e8-971f-fcdd-4fb96f56e643',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 21
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 695ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:30:12.463Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '81a79a07-f91a-3558-de4d-d138a7bf1a79',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 695
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 7ms /shop/makeproduct/all',
+  level: 'info',
+  timestamp: '2021-05-31T05:30:50.675Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '034a62ad-b029-b81b-3369-97a82927bb03',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 7
+    }
+  }
+}
+{
+  message: 'GET: \x1B[33m404\x1B[39m 3ms /shop/makeproduct/delete/86332aca-dc40-43f3-8da8-b9877b0234d0',
+  level: 'info',
+  timestamp: '2021-05-31T05:31:23.123Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/delete/86332aca-dc40-43f3-8da8-b9877b0234d0',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '3f6c59fb-b088-a58f-7cbb-7ceeebfa8d40',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/delete/86332aca-dc40-43f3-8da8-b9877b0234d0',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'DELETE: \x1B[32m204\x1B[39m 5ms /shop/makeproduct/delete/86332aca-dc40-43f3-8da8-b9877b0234d0',
+  level: 'info',
+  timestamp: '2021-05-31T05:31:30.333Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/delete/86332aca-dc40-43f3-8da8-b9877b0234d0',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'e88bd549-2de6-09fd-1d1e-b0ceaf09af5f',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'DELETE',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/delete/86332aca-dc40-43f3-8da8-b9877b0234d0',
+        query: {}
+      },
+      res: { statusCode: 204 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'POST: \x1B[32m201\x1B[39m 5ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:31:59.912Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '52e2d5c3-008e-37aa-7138-b910d86c69ac',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 201 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'POST: \x1B[31m500\x1B[39m 417ms /shop/makeproduct/create',
+  level: 'info',
+  timestamp: '2021-05-31T05:33:01.376Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/create',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '193',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '3d52a6f2-d995-81fc-05c1-4f4610c1356a',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/create',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 417
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 5ms /shop/makeproduct/all',
+  level: 'info',
+  timestamp: '2021-05-31T05:33:09.592Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/all',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '103f07ae-d03a-7c9e-80c7-de1d8927b600',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/all',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 5
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 6ms /shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+  level: 'info',
+  timestamp: '2021-05-31T05:33:46.621Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '7e2e0154-c2c7-7e8f-f54e-96a93f8f70fe',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 6
+    }
+  }
+}
+{
+  message: 'PUT: \x1B[32m200\x1B[39m 307ms /shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+  level: 'info',
+  timestamp: '2021-05-31T05:34:07.311Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'content-length': '44',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': 'b00d5780-7062-8ff6-074c-b232e99d7a47',
+          accept: '*/*',
+          origin: 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'PUT',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 307
+    }
+  }
+}
+{
+  message: 'GET: \x1B[32m200\x1B[39m 4ms /shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+  level: 'info',
+  timestamp: '2021-05-31T05:34:11.883Z',
+  label: 'make-category-products',
+  metadata: {
+    meta: {
+      req: {
+        url: '/shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+        headers: {
+          host: 'localhost:9091',
+          connection: 'keep-alive',
+          'sec-ch-ua': '"Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"',
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExMzg1OWQ1LWNmNjUtNDY5MC05YTQ1LTZmODUwODZiYjk2YSIsImlhdCI6MTYyMjM2NTI4NH0.7BTtDbYJvwWYbBgEJKD6GMfYfl496Vt2iRMwbWwzA6g',
+          'cache-control': 'no-cache',
+          'content-type': 'application/json',
+          'sec-ch-ua-mobile': '?0',
+          'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36',
+          'postman-token': '3b0d7eae-dff5-fd4f-107c-a2864e737de7',
+          accept: '*/*',
+          'sec-fetch-site': 'none',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-dest': 'empty',
+          'accept-encoding': 'gzip, deflate, br',
+          'accept-language': 'en-US,en;q=0.9'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/shop/makeproduct/5e48e7f6-23bb-473f-a79d-fdc87d560604',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 4
+    }
+  }
+}
